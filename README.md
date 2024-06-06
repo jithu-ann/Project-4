@@ -11,8 +11,7 @@ The music market is extremely competitive with artists always trying to make the
 
 •Is it in spotify’s charts?
 
-	We plan on utilizing some dataset we found on Kaggle that has all those metrics already. We plan to pick a song, remove it from the dataset 
- and then use that dataset to train a model to predict the streams and other info. This way we have ground truth to compare our results to.
+We plan on utilizing some dataset we found on Kaggle that has all those metrics already. We plan to pick a song, remove it from the dataset and then use that dataset to train a model to predict the streams and other info. This way we have ground truth to compare our results to.
 
 
 The dataset can be found in the following link:
