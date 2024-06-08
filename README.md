@@ -2,8 +2,7 @@
 ## **Predicting Music Trends**
 
 The music market is extremely competitive with artists always trying to make the next viral song and get the most streams. For this project, Our group aims to find a way to see if we can develop an algorithm that can give artists a competitive edge. 
-
- Based on the date it was released, bpm, key, energy, danceability, acoustic-ness and more, we are looking to see if we can predict the following:
+-Based on the date it was released, bpm, key, energy, danceability, acoustic-ness and more, we are looking to see if we can predict the following:
  
 • How many streams?
 
