@@ -1,5 +1,5 @@
 # Project-4
-**Predicting Music Trends**
+## **Predicting Music Trends**
 
 The music market is extremely competitive with artists always trying to make the next viral song and get the most streams. For this project, Our group aims to find a way to see if we can develop an algorithm that can give artists a competitive edge. 
 
@@ -21,7 +21,7 @@ https://www.kaggle.com/datasets/zeesolver/spotfy
 Tableau (Public) Link:
 
 
-**Methods**
+### **Methods**
 
 we are trying to predict Streams and if the song made it to spotify’s charts and where it charted.
 First we decided to remove all of the variables that was not a
