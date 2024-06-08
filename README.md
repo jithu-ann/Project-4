@@ -18,6 +18,9 @@ The dataset can be found in the following link:
 
 https://www.kaggle.com/datasets/zeesolver/spotfy
 
+Tableau (Public) Link:
+
+
 **Methods**
 
 we are trying to predict Streams and if the song made it to spotify’s charts and where it charted.
@@ -40,6 +43,11 @@ Streams: 97% Random Forest, 65% Linear Regression
 Charts: 90% Random Forest, 6% Linear Regression
 While Random Forest is closer to the actual value in magnitude, it tends to
 cluster its predicted number and does not deviate much
+
+**Visualization**
+
+We use Tableau and Seaborn
+
 
 **Conclusions and Recomendations**
 
@@ -64,6 +72,8 @@ cluster its predicted number and does not deviate much
 •Track YoY changes in statistics for developing further modeling & identifying YoY trends
 
 •Knowing the length of the song will add the to model’s robustness
+
+
 
 
 
