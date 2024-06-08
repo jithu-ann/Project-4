@@ -41,18 +41,28 @@ Charts: 90% Random Forest, 6% Linear Regression
 While Random Forest is closer to the actual value in magnitude, it tends to
 cluster its predicted number and does not deviate much
 
-**Conclusions and Reccomendations**
+**Conclusions and Recomendations**
 
 •Include Artist Name for modeling & predictions to be likely more accurate
+
 •Further understanding on Spotify % of
+
    Danceability %
+   
    Valence %
+   
    Energy %
+   
    Acousticness %
+   
    Instrumentalness %
+   
    Liveness %
+   
    Speechiness %
+   
 •Track YoY changes in statistics for developing further modeling & identifying YoY trends
+
 •Knowing the length of the song will add the to model’s robustness
 
 
