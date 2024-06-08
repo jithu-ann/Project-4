@@ -5,11 +5,11 @@ The music market is extremely competitive with artists always trying to make the
 
  Based on the date it was released, bpm, key, energy, danceability, acoustic-ness and more, we are looking to see if we can predict the following:
  
-•How many streams?
+• How many streams?
 
-•Is it in spotify’s playslists?
+• Is it in spotify’s playslists?
 
-•Is it in spotify’s charts?
+• Is it in spotify’s charts?
 
 We plan on utilizing some dataset we found on Kaggle that has all those metrics already. We plan to pick a song, remove it from the dataset and then use that dataset to train a model to predict the streams and other info. This way we have ground truth to compare our results to.
 
@@ -56,9 +56,9 @@ We use Tableau and Seaborn
 
 **Conclusions and Recomendations**
 
-•Include Artist Name for modeling & predictions to be likely more accurate
+• Include Artist Name for modeling & predictions to be likely more accurate
 
-•Further understanding on Spotify % of
+• Further understanding on Spotify % of
 
     Danceability %
    
@@ -74,12 +74,12 @@ We use Tableau and Seaborn
    
     Speechiness %
    
-•Track YoY changes in statistics for developing further modeling & identifying YoY trendsJ
+• Track YoY changes in statistics for developing further modeling & identifying YoY trendsJ
 
-•Knowing the length of the song will add the to model’s robustness
+• Knowing the length of the song will add the to model’s robustness
 
 
-Project contributers :
+**Project contributers :**
 
 • Bianca Santalla
 
