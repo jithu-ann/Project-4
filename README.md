@@ -23,4 +23,12 @@ https://www.kaggle.com/datasets/zeesolver/spotfy
 we are trying to predict Streams and if the song made it to spotify’s charts and where it charted.
 First we decided to remove all of the variables that was not a
 Float or integer.
-Converted the streams from object to int64
+Converted the streams from object to int64.
+
+First, we tried to use **Linear Regression** to find if there's 
+relation between streams/charts (dependant variable) to all 
+the other variables (independent variables).
+
+
+
+
