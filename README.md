@@ -74,9 +74,22 @@ We use Tableau and Seaborn
    
     Speechiness %
    
-•Track YoY changes in statistics for developing further modeling & identifying YoY trends
+•Track YoY changes in statistics for developing further modeling & identifying YoY trendsJ
 
 •Knowing the length of the song will add the to model’s robustness
+
+
+Project contributers :
+
+• Bianca Santalla
+
+• Jithu Ann Jacob
+
+• Rob Yaggi
+
+• steve deonarine
+ 
+ 
 
 
 
