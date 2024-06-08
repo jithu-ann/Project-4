@@ -35,7 +35,7 @@ the other variables (independent variables).
 then we use the model, **Random Forest**  that is the “opposite” to linear regression and is robust 
 against non-linear data to see if there is any improvement.
 
-**Results**
+### **Results**
 
 Overall - Both of them are not great but random forest is slightly better, this is backed up 
 by how accurate the mode “thinks” it is using the score method on the test data.
@@ -44,7 +44,7 @@ Charts: 90% Random Forest, 6% Linear Regression
 While Random Forest is closer to the actual value in magnitude, it tends to
 cluster its predicted number and does not deviate much
 
-**Visualization**
+### **Visualization**
 
 We use Tableau and Seaborn
 
@@ -54,7 +54,7 @@ We use Tableau and Seaborn
 
 /
 
-**Conclusions and Recomendations**
+### **Conclusions and Recomendations**
 
 • Include Artist Name for modeling & predictions to be likely more accurate
 
@@ -79,7 +79,7 @@ We use Tableau and Seaborn
 • Knowing the length of the song will add the to model’s robustness
 
 
-**Project contributers :**
+### **Project contributers :**
 
 • Bianca Santalla
 
