@@ -60,11 +60,11 @@ We use Tableau and Seaborn
 
 • Further understanding on Spotify % of
 
-    - Danceability %
+    Danceability %
    
-    - Valence %
-   
-    - Energy %
+    Valence %
+     
+    Energy %
    
     Acousticness %
    
