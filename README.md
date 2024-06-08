@@ -77,7 +77,7 @@ We use Tableau and Seaborn
 • Knowing the length of the song will add the to model’s robustness
 
 
-### **Project contributers :**
+### **Project contributers (alphabetical order):**
 
 • Bianca Santalla
 
