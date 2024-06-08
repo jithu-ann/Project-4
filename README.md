@@ -49,6 +49,13 @@ cluster its predicted number and does not deviate much
 We use Tableau and Seaborn
 
 
+
+
+
+
+
+
+
 **Conclusions and Recomendations**
 
 •Include Artist Name for modeling & predictions to be likely more accurate
