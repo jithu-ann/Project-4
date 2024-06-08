@@ -85,7 +85,7 @@ We use Tableau and Seaborn
 
 • Rob Yaggi
 
-• steve deonarine
+• Steve Deonarine
  
  
 
