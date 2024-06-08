@@ -19,3 +19,8 @@ The dataset can be found in the following link:
 https://www.kaggle.com/datasets/zeesolver/spotfy
 
 **Methods**
+
+we are trying to predict Streams and if the song made it to spotify’s charts and where it charted.
+First we decided to remove all of the variables that was not a
+Float or integer.
+Converted the streams from object to int64
