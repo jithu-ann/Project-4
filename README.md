@@ -34,6 +34,29 @@ against non-linear data to see if there is any improvement.
 
 **Results**
 
+Overall - Both of them are not great but random forest is slightly better, this is backed up 
+by how accurate the mode “thinks” it is using the score method on the test data.
+Streams: 97% Random Forest, 65% Linear Regression
+Charts: 90% Random Forest, 6% Linear Regression
+While Random Forest is closer to the actual value in magnitude, it tends to
+cluster its predicted number and does not deviate much
+
+**Conclusions and Reccomendations**
+
+•Include Artist Name for modeling & predictions to be likely more accurate
+•Further understanding on Spotify % of
+   Danceability %
+   Valence %
+   Energy %
+   Acousticness %
+   Instrumentalness %
+   Liveness %
+   Speechiness %
+•Track YoY changes in statistics for developing further modeling & identifying YoY trends
+•Knowing the length of the song will add the to model’s robustness
+
+
+
 
 
 
