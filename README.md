@@ -47,19 +47,19 @@ cluster its predicted number and does not deviate much
 
 •Further understanding on Spotify % of
 
-   Danceability %
+    Danceability %
    
-   Valence %
+    Valence %
    
-   Energy %
+    Energy %
    
-   Acousticness %
+    Acousticness %
    
-   Instrumentalness %
+    Instrumentalness %
    
-   Liveness %
+    Liveness %
    
-   Speechiness %
+    Speechiness %
    
 •Track YoY changes in statistics for developing further modeling & identifying YoY trends
 
