@@ -29,6 +29,13 @@ First, we tried to use **Linear Regression** to find if there's
 relation between streams/charts (dependant variable) to all 
 the other variables (independent variables).
 
+then we use the model, **Random Forest**  that is the “opposite” to linear regression and is robust 
+against non-linear data to see if there is any improvement.
+
+**Results**
+
+
+
 
 
 
