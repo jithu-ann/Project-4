@@ -23,15 +23,14 @@ https://public.tableau.com/views/SpotifyDataVisualizations/Story1?:language=en-U
 ### **Methods**
 
 We are trying to predict Streams and if the song made it to spotify’s charts and where it charted.
-First we decided to remove all of the variables that was not a
-Float or integer.
+First we decided to remove all of the variables that were not a float or integer.
 Converted the streams from object to int64.
 
 First, we tried to use **Linear Regression** to find if there's 
 relation between streams/charts (dependant variable) to all 
 the other variables (independent variables).
 
-then we use the model, **Random Forest**  that is the “opposite” to linear regression and is robust 
+Then we used the model, **Random Forest**  that is the “opposite” to linear regression and is robust 
 against non-linear data to see if there is any improvement.
 
 ### **Results**
@@ -45,9 +44,20 @@ cluster its predicted number and does not deviate much
 
 ### **Visualization**
 
-We use Tableau and Seaborn
+We used Tableau and Seaborn
 
+#Total Streams per Year and Top Artists 
 <img width="632" alt="Total Streams:Yr and Top Artists" src="https://github.com/jithu-ann/Project-4/assets/153320218/f9b47f72-ebac-47ce-be94-8161c6b757e5">
+
+#Spotify Streams
+<img width="2343" alt="Spotify Streams" src="https://github.com/jithu-ann/Project-4/assets/153320218/24bab86c-f926-41d6-a023-5072999e5e15">
+
+#Spotify Playlists
+<img width="2337" alt="Spotify Playlists" src="https://github.com/jithu-ann/Project-4/assets/153320218/d5d694c3-2ab7-4458-b57c-6f3722238d28">
+
+#Spotify Charts
+<img width="2335" alt="Release Month for Spotify Charts" src="https://github.com/jithu-ann/Project-4/assets/153320218/d110fb30-b122-46f8-85cb-bd36588ee900">
+
 
 
 /
