@@ -18,10 +18,11 @@ https://www.kaggle.com/datasets/zeesolver/spotfy
 
 -Tableau (Public) Link:
 
+https://public.tableau.com/views/SpotifyDataVisualizations/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ### **Methods**
 
-we are trying to predict Streams and if the song made it to spotify’s charts and where it charted.
+We are trying to predict Streams and if the song made it to spotify’s charts and where it charted.
 First we decided to remove all of the variables that was not a
 Float or integer.
 Converted the streams from object to int64.
