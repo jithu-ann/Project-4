@@ -47,7 +47,8 @@ cluster its predicted number and does not deviate much
 
 We use Tableau and Seaborn
 
-Total Streams:Yr and Top Artists.png
+<img width="632" alt="Total Streams:Yr and Top Artists" src="https://github.com/jithu-ann/Project-4/assets/153320218/f9b47f72-ebac-47ce-be94-8161c6b757e5">
+
 
 /
 
