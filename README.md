@@ -46,16 +46,20 @@ cluster its predicted number and does not deviate much
 
 We used Tableau and Seaborn
 
-#Total Streams per Year and Top Artists 
+# Total Streams per Year and Top Artists 
+
 <img width="632" alt="Total Streams:Yr and Top Artists" src="https://github.com/jithu-ann/Project-4/assets/153320218/f9b47f72-ebac-47ce-be94-8161c6b757e5">
 
-#Spotify Streams
+# Spotify Streams
+
 <img width="2343" alt="Spotify Streams" src="https://github.com/jithu-ann/Project-4/assets/153320218/24bab86c-f926-41d6-a023-5072999e5e15">
 
-#Spotify Playlists
+# Spotify Playlists
+
 <img width="2337" alt="Spotify Playlists" src="https://github.com/jithu-ann/Project-4/assets/153320218/d5d694c3-2ab7-4458-b57c-6f3722238d28">
 
-#Spotify Charts
+# Spotify Charts
+
 <img width="2335" alt="Release Month for Spotify Charts" src="https://github.com/jithu-ann/Project-4/assets/153320218/d110fb30-b122-46f8-85cb-bd36588ee900">
 
 
