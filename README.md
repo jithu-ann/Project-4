@@ -47,8 +47,8 @@ cluster its predicted number and does not deviate much
 
 We use Tableau and Seaborn
 
-
-
+[
+](https://github.com/jithu-ann/Project-4/blob/main/Final_images/Release%20Month%20for%20Spotify%20Charts.png)
 
 
 /
