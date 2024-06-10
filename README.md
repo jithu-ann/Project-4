@@ -64,7 +64,6 @@ We used Tableau and Seaborn
 
 
 
-/
 
 ### **Conclusions and Recomendations**
 
